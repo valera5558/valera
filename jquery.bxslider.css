@@ -1,0 +1,29 @@
+/* Code tidied up by ScrapBook */
+.bx-wrapper { position: relative; margin: 0px auto 60px; padding: 0px; touch-action: pan-y; }
+.bx-wrapper img { max-width: 100%; display: block; }
+.bxslider { margin: 0px; padding: 0px; }
+ul.bxslider { list-style: outside none none; }
+.bx-viewport { transform: translateZ(0px); }
+.bx-wrapper { box-shadow: 0px 0px 5px rgb(204, 204, 204); border: 5px solid rgb(255, 255, 255); background: rgb(255, 255, 255) none repeat scroll 0% 0%; }
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto { position: absolute; bottom: -30px; width: 100%; }
+.bx-wrapper .bx-loading { min-height: 50px; background: rgb(255, 255, 255) url("bx_loader.gif") no-repeat scroll center center; height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; z-index: 2000; }
+.bx-wrapper .bx-pager { text-align: center; font-size: 0.85em; font-family: Arial; font-weight: bold; color: rgb(102, 102, 102); padding-top: 20px; }
+.bx-wrapper .bx-pager.bx-default-pager a { background: rgb(102, 102, 102) none repeat scroll 0% 0%; text-indent: -9999px; display: block; width: 10px; height: 10px; margin: 0px 5px; outline: 0px none; border-radius: 5px; }
+.bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus { background: rgb(0, 0, 0) none repeat scroll 0% 0%; }
+.bx-wrapper .bx-pager-item, .bx-wrapper .bx-controls-auto .bx-controls-auto-item { display: inline-block; }
+.bx-wrapper .bx-pager-item { font-size: 0px; line-height: 0; }
+.bx-wrapper .bx-prev { left: 10px; background: rgba(0, 0, 0, 0) url("controls.png") no-repeat scroll 0px -32px; }
+.bx-wrapper .bx-prev:hover, .bx-wrapper .bx-prev:focus { background-position: 0px 0px; }
+.bx-wrapper .bx-next { right: 10px; background: rgba(0, 0, 0, 0) url("controls.png") no-repeat scroll -43px -32px; }
+.bx-wrapper .bx-next:hover, .bx-wrapper .bx-next:focus { background-position: -43px 0px; }
+.bx-wrapper .bx-controls-direction a { position: absolute; top: 50%; margin-top: -16px; outline: 0px none; width: 32px; height: 32px; text-indent: -9999px; z-index: 9999; }
+.bx-wrapper .bx-controls-direction a.disabled { display: none; }
+.bx-wrapper .bx-controls-auto { text-align: center; }
+.bx-wrapper .bx-controls-auto .bx-start { display: block; text-indent: -9999px; width: 10px; height: 11px; outline: 0px none; background: rgba(0, 0, 0, 0) url("controls.png") no-repeat scroll -86px -11px; margin: 0px 3px; }
+.bx-wrapper .bx-controls-auto .bx-start:hover, .bx-wrapper .bx-controls-auto .bx-start.active, .bx-wrapper .bx-controls-auto .bx-start:focus { background-position: -86px 0px; }
+.bx-wrapper .bx-controls-auto .bx-stop { display: block; text-indent: -9999px; width: 9px; height: 11px; outline: 0px none; background: rgba(0, 0, 0, 0) url("controls.png") no-repeat scroll -86px -44px; margin: 0px 3px; }
+.bx-wrapper .bx-controls-auto .bx-stop:hover, .bx-wrapper .bx-controls-auto .bx-stop.active, .bx-wrapper .bx-controls-auto .bx-stop:focus { background-position: -86px -33px; }
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager { text-align: left; width: 80%; }
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto { right: 0px; width: 35px; }
+.bx-wrapper .bx-caption { position: absolute; bottom: 0px; left: 0px; background: rgba(80, 80, 80, 0.75) none repeat scroll 0% 0%; width: 100%; }
+.bx-wrapper .bx-caption span { color: rgb(255, 255, 255); font-family: Arial; display: block; font-size: 0.85em; padding: 10px; }

@@ -1,0 +1,66 @@
+/* Code tidied up by ScrapBook */
+* { padding: 0px; margin: 0px; }
+header, nav, section, article, aside, footer { display: block; }
+html, body { height: auto; max-height: 100%; }
+body { background: rgb(255, 255, 255) none repeat scroll 0% 0%; font-family: "SFUIDisplay-Regular",Arial,sans-serif; font-size: 20px; color: rgb(35, 31, 32); }
+p { padding: 10px 0px; line-height: 118%; }
+fieldset { border: medium none; margin: 0px; padding: 0px; }
+.blue { color: rgb(0, 207, 217); }
+.green { color: rgb(74, 185, 87); }
+.gray { color: rgb(76, 73, 74); }
+.black { color: rgb(37, 37, 37); }
+.white { color: rgb(255, 255, 255); }
+a, a[href^="tel"] { color: inherit; text-decoration: inherit; font-size: inherit; font-style: inherit; font-weight: inherit; }
+a:hover {  }
+.sfr { font-family: "SFUIDisplay-Regular",sans-serif; }
+.sfb { font-family: "SFUIDisplay-Bold",sans-serif; }
+.sfh { font-family: "SFUIDisplay-Heavy",sans-serif; }
+.sfl { font-family: "SFUIDisplay-Light",sans-serif; }
+.sft { font-family: "SFUIDisplay-Thin",sans-serif; }
+.os300 { font-family: "Open Sans",sans-serif; font-weight: 300; }
+.os400 { font-family: "Open Sans",sans-serif; font-weight: 400; }
+.os600 { font-family: "Open Sans",sans-serif; font-weight: 600; }
+.os700 { font-family: "Open Sans",sans-serif; font-weight: 700; }
+.os800 { font-family: "Open Sans",sans-serif; font-weight: 800; }
+.ari { font-family: "Arial",sans-serif; }
+.fnorm { font-weight: normal; }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+.center { text-align: center; }
+.alleft { text-align: left; }
+.alright { text-align: right; }
+.upp { text-transform: uppercase; }
+.under { text-decoration: underline; }
+.line-th { text-decoration: line-through; }
+.no-padding { padding: 0px; }
+.flleft { float: left; }
+.flright { float: right; }
+.lh100 { line-height: 100%; }
+.lh110 { line-height: 110%; }
+.lh120 { line-height: 120%; }
+.lh130 { line-height: 130%; }
+.lh140 { line-height: 140%; }
+.lh150 { line-height: 150%; }
+.lh160 { line-height: 160%; }
+.inline-b { display: inline-block; }
+.v-top { vertical-align: top; }
+.v-mid { vertical-align: middle; }
+.rel { position: relative; }
+.abs { position: absolute; }
+.fix { position: fixed; }
+.clearfix::after { content: ""; display: table; clear: both; }
+.clear { clear: both; }
+input, select, textarea { display: initial; width: 100%; height: 70px; line-height: 80px; margin: 6px auto !important; border: 1px solid rgb(0, 0, 0); border-radius: 6px; outline: medium none; text-indent: 90px; color: rgb(37, 37, 37); font-size: 30px; box-sizing: content-box; transition: all 0.3s ease 0s; }
+select { color: grey; text-indent: 85px; background: rgb(255, 255, 255) url("country.png") no-repeat scroll 27px 50% / 8% auto; }
+input.name-black { font-size: 30px; background: rgb(255, 255, 255) url("name_b.png") no-repeat scroll 30px 50%; }
+input.phone-black { font-size: 30px; background: rgb(255, 255, 255) url("phone_b.png") no-repeat scroll 28px 50%; }
+:-moz-placeholder { font-size: 30px; color: rgb(78, 77, 81); }
+*::-moz-placeholder { font-size: 30px; color: rgb(78, 77, 81); }
+:focus::-moz-placeholder { color: transparent; }
+:focus:-moz-placeholder { color: transparent; }
+button { background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; outline: medium none; border: medium none; }
+button { width: 100%; height: 92px; line-height: 92px; margin-top: 15px !important; border-radius: 8px; background-color: rgb(74, 185, 87); border-bottom: 5px solid rgb(32, 116, 42); font-family: "Open Sans",sans-serif !important; font-weight: 700 !important; text-transform: uppercase !important; text-align: center; color: rgb(255, 255, 255); cursor: pointer; }
+button, .button { opacity: 0.88; position: relative; transition: all 0.3s ease 0s; }
+button:hover, .button:hover { opacity: 1; filter: brightness(130%); }
+button:active, .button:active { top: 1px; }
+.button:focus {  }

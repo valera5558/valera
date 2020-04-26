@@ -1,0 +1,11 @@
+//1767429093
+var CB = {
+    soundUrl: 'comebacker/audio/IVR-Russian-Dry.mp3',
+    text: 'Подождите!\
+У нас есть для Вас СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ! Только сегодня специальная цена на товар!',
+    imageSrc: 'comebacker/comebacker_all_ru.jpg',
+    innerHtml: '',
+    reinitable: '0',
+    landingUrl: 'http://mb.diettonus.com/'
+};
+

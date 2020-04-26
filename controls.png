@@ -1,0 +1,802 @@
+
+<!DOCTYPE html>
+
+
+<html lang="ru" class="no-js">
+<head>
+  <title>NEO SLIM AKG | Официальный сайт</title>
+
+  <!-- META -->
+  <meta charset="utf-8">
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+
+  <!-- Fonts -->
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- Connect CSS files -->
+  <link rel="stylesheet" href="assets/css/fonts.css" type="text/css">
+  <link rel="stylesheet" href="assets/css/main.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" type="text/css">
+  <link rel="stylesheet" href="assets/css/font-size.min.css" type="text/css">
+  <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+
+
+  <!-- Connect Jquery & Java files -->
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+ <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css">
+<script type="text/javascript" src="assets/js/jquery.fancybox.js"></script>
+<!--drcash-->
+<script type="text/javascript">
+(function(f,n,y,t){var i = f.createElement(n);var m = f.getElementsByTagName(n)[0];
+      i.async = 1;i.src = y;i.onload = t; m.parentNode.insertBefore(i, m)})
+  (document, 'script', '//drtest.me/drlands.js?t='+Math.round((new Date()).getTime()/100000), function () {drland.setParams({
+      type_page: 'landing',
+      id_page: 1282
+  })});
+</script>
+<!--/drcash-->
+
+
+</head>
+
+<body>
+
+<!-------------------------------------------------------------------------------------------------------------->
+
+  <div class="block block1">
+    <div class="wrap">
+
+      <div class="header">
+        <div class="inline-b">
+          <img src="assets/images/header_ico1.png">
+          <p class="px15">Подтверждено <br>клиническими <br>испытаниями</p>
+        </div>
+        <div class="inline-b">
+          <img src="assets/images/header_ico2.png">
+          <p class="px15">Единственный быстрый <br>и безопасный метод <br>снижения веса</p>
+        </div>
+        <div class="inline-b">
+          <img class="logo" src="assets/images/logo.png">
+        </div>
+        <div class="inline-b">
+          <a class="fancybox" rel="cert" href="assets/images/cert1.jpg"><img src="assets/images/header_ico3.png"></a>
+          <a class="fancybox" rel="cert" href="assets/images/cert2.jpg"></a>
+          <p class="px15">Сертификат<br>роспотребнадзора<br>RU.77.99.88.003.E.001859.04.17</p>
+        </div>
+      </div>
+
+      <p class="sfh px50 center">Избавьтесь от лишнего веса всего <br>за 1 курс применения!</p>
+      <p class="sfl px30 center">Neo Slim AKG: самое простое и комфортное похудение <br>без вреда для здоровья за счет уникальных свойств конжака</p>
+
+      <div class="product-container rel">
+        <div class="left-block flleft">
+          <ul>
+            <li><span class="sfb">Сбросьте свой 1-й килограмм</span> уже на 2-й день</li>
+            <li><span class="sfb">Повышает скорость расщепления</span> жира с живота, боков, бедер на 84%</li>
+            <li><span class="sfb">Снижает аппетит</span> и устраняет чувство голода</li>
+            <li><span class="sfb">Уменьшает целлюлит</span> и растяжки</li>
+            <li><span class="sfb">Сброшенные килограммы</span> не возвращаются снова</li>
+
+          </ul>
+        </div>
+        <div class="product-pack abs"></div>
+        <div class="right-block flright">
+          <div class="form-container">
+            <p class="sfb px24 center">Попробуйте Neo Slim AKG <br>всего за 1 рубль</p>
+            <p class="action-valid"><!--<span class="sfl px14">до конца акции осталось:</span> <span class="sfb px26 white timer">00:00:01</span>--><span class="sfb px17 upp white">Акция действует до: <span class="pink">14.06.2018</span></span></p>
+            <div class="price inline-b alright">
+              <p class="sfl px20 dblue">Обычная цена:</p>
+              <p class="rel price-lt sft px31 dblue">1390 руб.</p>
+            </div><!--
+            --><div class="action-price inline-b alright">
+              <p class="sfl px20 dblue">Цена по акции:</p>
+              <p class="sfh px31 pink">1 руб.<sup>*</sup></p>
+            </div>
+            <form id="form" class="orderForm">
+              <input placeholder="Имя" name="name" maxlength="30" id="name" class="name name-black" required>
+              <input placeholder="Телефон" name="phone" id="phone" minlength="10" maxlength="20" class="phone phone-black" required>
+              <input type="hidden" name="comment" value="Нео Слим за 1 руб">
+              <button class="event_order px17" type="submit">Заказать</button>
+            </form>
+            <p class="px12 gray center">*при заказе курса</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="black-line"><div class="wrap"></div></div>
+  </div>
+
+  <!-- end div one -->
+
+  <div class="block block2">
+    <div class="wrap">
+
+    <p class="sfl px36"><span class="sfb">Neo Slim AKG стал самым популярным <br>средством для похудения в Европе*</span> <br>и произошло это неслучайно</p>
+    <div class="text">
+      <p class="px20 lh140">В Neo Slim AKG  используется одновременно и новый, и традиционный подход к похудению</p>
+      <p class="px20 lh140">Все мы знаем, что для того, чтобы сбросить лишние килограммы, необходимо потреблять меньше калорий, чем расходуется. Именно поэтому многие из нас сидят на диетах. Однако любая диета подразумевает ограничение в еде и дискомфорт, непрерывные муки голода и угнетенное состояние организма из-за отсутствия достаточного количества полезных веществ.</p>
+      <p class="px20 lh140">Neo Slim AKG  позволяет без усилий потреблять меньше калорий, делать это с комфортом и пользой для своего организма. Безвредно, без стресса, без возврата — принцип снижения веса Neo Slim AKG.</p>
+      <p class="px12">* По данным авторитетного английского издания «Times. Beauty News»</p>
+    </div>
+
+    <div class="hr"></div>
+
+    </div>
+  </div>
+
+  <!-- end div two -->
+
+  <div class="block block3">
+    <div class="wrap">
+
+    <p class="head sfl px36 center"><span class="sfb">Тройное действие Neo Slim AKG</span> <br>для гарантированной победы над лишними килограммами</p>
+
+    <div class="inline-blocks center">
+      <div>
+        <img src="assets/images/cir1.png">
+        <p class="sfh px24 white">Снижает «полезный» объем желудка</p>
+        <p class="sfl px20 lh140">Вы автоматически меньше едите, при этом чувствуете насыщение и не мучаетесь от голода.</p>
+      </div>
+      <div>
+        <img src="assets/images/cir2.png">
+        <p class="sfh px24 white">Активизирует расщепление жира</p>
+        <p class="sfl px20 lh140">Так как в организм поступает меньше калорий, они берутся из жировых отложений. Особенно быстро жир уходит с боков, живота, бедер.</p>
+      </div>
+      <div>
+        <img src="assets/images/cir3.png">
+        <p class="sfh px24 white">Поддерживает организм во время похудения</p>
+        <p class="sfl px20 lh140">Снабжает организм необходимыми витаминами и микроэлементами для того, чтобы полностью исключить вредные последствия быстрого похудения.</p>
+      </div>
+    </div>
+
+    </div>
+  </div>
+
+  <!-- end div three -->
+
+  <div class="block block4">
+    <div class="wrap">
+
+      <p class="head sfl px36 center">Доказано: <span class="sfb">Neo Slim AKG помогает похудеть</span></p>
+
+      <div class="inline-blocks center">
+        <div>
+          <img src="assets/images/cir4.png">
+          <p class="sfb px20 white">Не зависимо от возраста</p>
+        </div>
+        <div>
+          <img src="assets/images/cir5.png">
+          <p class="sfb px20 white">И мужчинам, и женщинам</p>
+        </div>
+        <div>
+          <img src="assets/images/cir6.png">
+          <p class="sfb px20 white">С любым типом фигуры</p>
+        </div>
+        <div>
+          <img src="assets/images/cir7.png">
+          <p class="sfb px20 white">Не зависимо от причин появления лишних килограммов и изначального веса</p>
+        </div>
+        <div>
+          <img src="assets/images/cir8.png">
+          <p class="sfb px20 white">Без побочных эффектов</p>
+        </div>
+        <div>
+          <img src="assets/images/cir9.png">
+          <p class="sfb px20 white">Без диет и изнурительных физических упражнений</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- end div four -->
+
+  <div class="block block5">
+    <div class="wrap">
+
+      <p class="head sfl px36 center"><span class="sfb">Удивительные результаты</span> <br>клинических исследований Neo Slim AKG</p>
+
+      <div class="left-block inline-b">
+        <p class="px20 lh140">Самые крупные исследования Neo Slim AKG проводились в Стокгольмском институте питания в 2015 году с участием около 1000 мужчин и женщин.</p>
+        <p class="px20 lh140">Все участвующие в исследованиях принимали Neo SliResearchm AKG на протяжении 1 месяца. После были подведены итоги. </p>
+        <img src="assets/images/sweden.png">
+      </div>
+      <img class="inline-b" src="assets/images/cir10.png">
+
+    <div class="hr"></div>
+    </div>
+
+  </div>
+
+  <!-- end div five -->
+
+  <div class="block block6">
+    <div class="wrap">
+
+      <p class="head sfh px20 center">Результаты похудения после месячного приема NEO SLIM AKG:</p>
+
+      <div class="inline-blocks center">
+        <div>
+          <div class="black-label">
+            <p class="sft px70 white center">-10кг</p>
+          </div>
+          <p class="sfb px20">78% испытуемых</p>
+        </div>
+        <div>
+          <div class="black-label">
+            <p class="sft px70 white center">-7кг</p>
+          </div>
+          <p class="sfb px20">17% испытуемых</p>
+        </div>
+        <div>
+          <div class="black-label">
+            <p class="sft px70 white center">-5кг</p>
+          </div>
+          <p class="sfb px20">5% испытуемых</p>
+        </div>
+        <div>
+          <div class="black-label">
+            <p class="sft px70 white center"><3кг</p>
+          </div>
+          <p class="sfb px20">Не похудел никто</p>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!-- end div six -->
+
+
+  <div class="block block7">
+    <div class="wrap">
+
+      <p class="head sfh px40 center">Кроме того, у испытуемых <br>было отмечено:</p>
+
+      <div class="text">
+        <p>Прилив сил<br>и энергии</p>
+        <p>Чувство сытости</p>
+        <p>Эффективная чистка<br>кишечника</p>
+        <p>Восстановление<br>микрофлоры</p>
+        <p>Уменьшается объем<br>жировой ткани</p>
+        <p>Снижение уровня<br>холестерина и сахара в крови</p>
+        <p>Запускается процесс омоложения<br>клеток, повышается тонус мышц</p>
+        <p>Заметно теряются сантиметры<br>в области живота, боков, бедер</p>
+        <p>Выведение<br>токсинов</p>
+        <p>Нормализуется процесс обмена<br>веществ в организме</p>
+        <p>Улучшение<br>состояния кожи</p>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- end div seven -->
+
+  <div class="block block8">
+    <div class="wrap">
+
+    <p class="head sfl px36 center"><span class="sfh">Когда рекомендуется использовать</span> <br>Neo Slim AKG?</p>
+
+      <div class="inline-blocks center">
+        <div>
+          <img src="assets/images/cir11.png">
+          <p class="sfb px16 lh140">Лишний вес мешает вашей личной жизни и вредит здоровью</p>
+        </div>
+        <div>
+          <img src="assets/images/cir12.png">
+          <p class="sfb px16 lh140">Нарушения жирового обмена</p>
+        </div>
+        <div>
+          <img src="assets/images/cir13.png">
+          <p class="sfb px16 lh140">Нарушения обмена веществ</p>
+        </div>
+        <div>
+          <img src="assets/images/cir14.png">
+          <p class="sfb px16 lh140">Низкий жизненный тонус</p>
+        </div>
+        <div>
+          <img src="assets/images/cir15.png">
+          <p class="sfb px16 lh140">Нарушения микрофлоры кишечника</p>
+        </div>
+        <div>
+          <img src="assets/images/cir16.png">
+          <p class="sfb px16 lh140">Постоянное чувство голода</p>
+        </div>
+      </div>
+
+      <div class="plashka plashka-black rel">
+        <div class="product-pack abs"></div>
+        <p class="sfl px38 white lh150">Почему бы не попробовать <span class="sfh">всего за 1 руб.<sup>*</sup>,</span> <br> пока действует акция?</p>
+        <a class="button px17 event_anchor2" href="#order">Заказать</a>
+      </div>
+
+    <div class="hr"></div>
+    </div>
+  </div>
+
+  <!-- end block -->
+
+
+  <div class="block block9">
+    <div class="wrap">
+
+    <p class="head sfl px40 center"><span class="sfh">Секрет эффективности Neo Slim AKG</span> в большом <br>содержании конжака</p>
+
+      <div class="gling">
+        <p class="px30">Глюкоманнан (конжак)</p>
+        <p class="px18 sfl lh130">Конжак – водорастворимое растительное волокно высокой степени очистки, получаемое из клубней одноименного растения. Произрастает данное растение в горах Японии и известно своими свойствами бороться с лишним весом уже 2000 лет.</p>
+        <p class="sfl px18 lh130"><span class="sfb">Конжак способен впитывать в себя жидкость и увеличиваться в 100 раз больше своего объема.</span> Если принимать его до еды и запивать большим количеством воды, то получившаяся субстанция заполняет собой желудок и способствует формированию чувства насыщения еще до приема пищи. Именно этим и объясняется высокая эффективность Neo Slim AKG в борьбе с лишним весом.</p>
+      </div>
+
+      <p class="complex px30 sfl center"><span class="sfh">Витаминно-минеральный</span> комплекс NeoSlim</p>
+
+      <div class="ing-container">
+        <div class="ing">
+          <p class="px29">Медь</p>
+          <p class="px19">Ускоряет обмен веществ в организме</p>
+        </div>
+
+        <div class="ing">
+          <p class="px29">Железо FE</p>
+          <p class="px19">Поддерживает иммунитет и работу щитовидной железы</p>
+          <p class="bold px16">1 капсула = 1.5 кг яблок</p>
+        </div>
+
+        <div class="ing">
+          <p class="px29">Хром CR</p>
+          <p class="px19 nopad">Регулирует уровень холестерина, способствует снижению веса</p>
+          <p class="px29">Селен SE</p>
+          <p class="px19">Мощный антиоксидант,<br>очищает организм</p>
+          <p class="px16 bold">1 капсула = 4 кг семян тыквы</p>
+        </div>
+
+        <div class="ing">
+          <p class="px29">Витамины</p>
+          <p class="px19 nopad">Суточная норма витамин A, A1, В1, В2, В3, В5,<br>В6, C, E, D1, N, P</p>
+          <p class="px29">Витамин Е</p>
+          <p class="px16 bold nopad">1 капсула = 11 кг моркови</p>
+          <p class="px29">Витамин B</p>
+          <p class="px16 bold nopad">1 капсула = 2 кг чеснока</p>
+        </div>
+
+        <div class="ing">
+          <p class="px29">Цинк ZN</p>
+          <p class="px19">Улучшает усвоение жиров, белков и углеводов из пищи</p>
+        </div>
+
+        <div class="ing">
+          <p class="px29">Марганец MN</p>
+          <p class="px19">Нормализация функций ЖКТ, улучшает пищеварения</p>
+        </div>
+
+        <div class="ing left">
+          <p class="px30">Фолиевая кислота</p>
+          <p class="px20">Жизненно важный элемент для роста и воспроизводства всех новых клеток организма. Омолаживает организм и улучшает самочувствие</p>
+        </div>
+
+        <div class="ing">
+          <p class="px30">Полисахариды</p>
+          <p class="px20">Оказывают непосредственное влияние на структуру ткани и функции желудочно-кишечного тракта, печени, почек и других органов</p>
+        </div>
+
+        <div class="clear"></div>
+      </div>
+
+
+
+      <div class="plashka rel">
+        <div class="product-pack abs"></div>
+        <p class="inline-b sfl px30">Neo Slim AKG  – 100% натуральный, <br>экологически чистый и безвредный продукт</p>
+        <a href="#order" class="button inline-b px17 event_anchor2">Заказать</a>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- end block -->
+
+  <div class="block block10">
+    <div class="wrap">
+
+      <p class="head sfl px50 white lh120"><span class="sfh">Что о Neo Slim AKG</span> <br>говорят российские эксперты?</p>
+
+      <div class="quote">
+        <p class="quote-start sfl px20 lh140">Безусловно, Neo Slim AKG одно из лучших на сегодняшний день средств для похудения, которое обеспечивает гарантированный сброс лишний килограммов без вреда для здоровья. </p>
+        <p class="sfl px20 lh140">Кто бы что ни говорил, но до сих пор единственным способом похудения являются диеты. Однако далеко не все имеют железную силу волю и готовы бороться с чувством голода. <span class="sfb">Neo Slim AKG позволяет в значительной мере облегчить этот процесс и сделать похудения по-настоящему комфортным.</span> За счет высокого содержания конжака препарат эффективно подавляет чувство голода и снижает аппетит. Вам просто не будет хотеться много есть.</p>
+        <p class="quote-end sfl px20 lh140">Neo Slim AKG  произвел настоящий фурор в области диетологии. Сегодня его активно используют не только обычные люди, но и звезды мировой эстрады. <span class="sfb">Neo Slim AKG  помогает снижать вес даже при отсутствии физических нагрузок с необходимой поддержкой организма. Он действует так же, как пликация (ушивание) желудка, но только без дорогостоящей и опасной операции.</span> Если вы хотите быстро и безопасно похудеть, вам стоит попробовать Neo Slim AKG</p>
+      </div>
+
+      <p class="sfh px20 no-padding">Юлия Федорова</p>
+      <p class="sfl px17 italic">врач-косметолог, диетолог, стаж практики 12 лет</p>
+
+      <div class="hr"></div>
+
+    </div>
+  </div>
+
+  <!-- end block -->
+
+  <div class="block block11">
+    <div class="wrap rel">
+
+    <img class="abs girl3" src="assets/images/girl3.jpg">
+
+    <p class="sfl px50 white center"><span class="sfh">Еще 7 важных причин,</span> почему стоит <br>использовать Neo Slim AKG для ускоренного <br>похудения</p>
+
+    <ul>
+      <li><span class="sfb">Сертифицированное</span>, рекомендуемое врачами-диетологами средство от избыточного веса
+</li>
+      <li><span class="sfb">100% натуральность ингредиентов</span> основной ингредиент – редкий корень Конжак, собранный в экологически чистых районах Японии и Китая.</li>
+      <li><span class="sfb">Не имеет побочных действий</span> в отличие от химических таблеток, которые вызывают головокружения, тошноту, диарею, ухудшают биохимические показатели печени).</li>
+      <li><span class="sfb">Полностью безопасное детокс-средство,</span><br>которое можно пить без назначения врача.</li>
+      <li><span class="sfb">Доступная цена</span></li>
+      <a class="button" href="#order">Заказать</a>
+    </ul>
+
+    <div class="product-pack abs"></div>
+
+    </div>
+    <div class="black-line">
+    <div class="wrap">
+    <p class="sfl px30 white center upp">Результат от приема Neo Slim AKG <br><span class="sfh">уже на 2-й день!</span></p>
+    <p class="px16 white zvezda">* при заказе курса</p>
+    </div>
+    </div>
+  </div>
+
+  <!-- end block -->
+
+  <div class="block block12">
+    <div class="wrap">
+
+      <div class="inline-blocks center">
+        <div>
+          <img src="assets/images/neo1.png">
+          <p class="sfl white px20 lh120">Принимайте по 1-2 капсулы за 20-30 минут до приема пищи. Запивайте стаканом теплой не минеральной воды</p>
+        </div>
+        <div>
+          <img src="assets/images/neo2.png">
+          <p class="sfl white px20 lh120">Содержимое капсулы будет набухать и заполнять желудок на 80% в течение нескольких минут</p>
+        </div>
+        <div>
+          <img src="assets/images/neo3.png">
+          <p class="sfl white px20 lh120">Вы будете ощущать сытость еще до приема пищи, как следствие, будете есть меньше.</p>
+        </div>
+        <div>
+          <img src="assets/images/neo4.png">
+          <p class="sfl white px20 lh120">Повторяйте 3 раза в день перед каждым приемом пищи и фиксируйте уменьшение веса</p>
+        </div>
+      </div>
+
+      <div class="plashka plashka-black rel">
+        <div class="product-pack abs"></div>
+        <p class="sfl px30 white lh140">78% использующих Neo Slim AKG теряют свой первый <br>килограмм уже на 2-й день <br>приема препарата.</p>
+        <a class="button px17 event_anchor3" href="#order">Заказать</a>
+      </div>
+      <p class="zvezda px16 white">* при заказе курса</p>
+    </div>
+  </div>
+
+  <!-- end block -->
+
+  <div class="block block13">
+    <div class="wrap">
+
+      <p class="head sfl px50 white center lh140"><span class="sfh">Прочитайте отзывы тех, кто уже похудел</span> <br>с Neo Slim AKG</p>
+
+      <div class="inline-blocks center">
+
+        <div class="resp">
+          <div class="header">
+            <img src="assets/images/ava1.png">
+            <p class="sfl px20">Светлана, 33 года</p>
+          </div>
+          <img src="assets/images/resp1.jpg">
+          <div class="weight">
+            <p class="sfl px30"><span class="sfh">-31кг</span> за 3 месяца</p>
+          </div>
+          <div class="beafter">
+            <p class="sfl px16"><span class="sfh">БЫЛО ДО:</span> <br>вес 86 кг <br>талия 89 см <br>ягодицы 108 см</p>
+            <p class="sfl px16"><span class="sfh">СТАЛО ПОСЛЕ:</span> <br>вес 55 кг <br>талия 66 см <br>ягодицы 93 см</p>
+          </div>
+          <div class="text">
+            <p class="sfl px16">«Страдала от лишнего веса больше 10 лет. За это время потеряла мужа – ушел к стройной, и заработала много проблем со здоровьем (больные суставы и сердце). Уже даже не надеялась, что когда-либо похудею. Но это случилось благодаря Neo Slim AKG. Первое время даже не узнавала себя в зеркале, и все время казалось, что это сон. Но оказалось в реальности. Не могу нарадоваться своей новой фигуре. Жизнь начала меняться к лучшему. Прошли многие болячки, стала заметно лучше себя чувствовать. Рекомендую Neo Slim AKG всем, кто хочет похудеть!»</p>
+          </div>
+        </div>
+
+        <div class="resp">
+          <div class="header">
+            <img src="assets/images/ava2.png">
+            <p class="sfl px20">Марина, 26 лет</p>
+          </div>
+          <img src="assets/images/resp2.jpg">
+          <div class="weight">
+            <p class="sfl px30"><span class="sfh">-6кг</span> за 1 месяц</p>
+          </div>
+          <div class="beafter">
+            <p class="sfl px16"><span class="sfh">БЫЛО ДО:</span> <br>вес 65 кг <br>талия 71 см <br>ягодицы 84 см</p>
+            <p class="sfl px16"><span class="sfh">СТАЛО ПОСЛЕ:</span> <br>вес 59 кг <br>талия 66 см <br>ягодицы 78 см</p>
+          </div>
+          <div class="text">
+            <p class="sfl px16">«Похудеть хотела всегда и много всего перепробовала для этого. Лучше всего помогали диеты, но сидеть на них сложно. Особенно на строгих, а не строгие не помогают совсем. От подруги узнала о Neo Slim AKG и решила попробовать. Никогда я не худела так быстро и так просто, как с этим препаратом. В итоге за месяц скинула почти 6 кг без каких-либо мучений. Выгляжу и чувствую себя намного лучше. Вещи, которые уже и не надеялась одеть, снова стали мне впору. Если честно немного удивлена, что такое недорогое средство, может быть настолько эффективным».</p>
+          </div>
+        </div>
+
+        <div class="resp">
+          <div class="header">
+            <img src="assets/images/ava3.png">
+            <p class="sfl px20">Елена, 51 год</p>
+          </div>
+          <img src="assets/images/resp3.jpg">
+          <div class="weight">
+            <p class="sfl px30"><span class="sfh">-21кг</span> за 2 месяца</p>
+          </div>
+          <div class="beafter">
+            <p class="sfl px16"><span class="sfh">БЫЛО ДО:</span> <br>вес 90 кг <br>талия 85 см <br>ягодицы 104 см</p>
+            <p class="sfl px16"><span class="sfh">СТАЛО ПОСЛЕ:</span> <br>вес 57 кг <br>талия 64 см <br>ягодицы 86 см</p>
+          </div>
+          <div class="text">
+            <p class="sfl px16">«Умею вкусно готовить и люблю поесть. Поэтому любая диета для меня была настоящим испытанием. При этом я понимала, что нужно худеть и делать это необходимо как можно раньше. Стала часто повышаться давление и отекать ноги, появилась отдышка. К похудению готовилась как к кошмару, думала, что придется туго, но оказалось все очень просто и быстро. Помог Neo Slim AKG, о котором слышала много хорошего до этого. Принимала его согласно инструкции и в результате похудела на 21 кг за 2 месяца! Никогда я не была такой стройной! Огромное спасибо тем людям, кто придумал это уникальное средство!»</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <div class="block block15" >
+    <div class="wrap">
+    <div class="zavod-container rel">
+
+        <p class="head3 sft px40 lh120">Производитель, которому можно доверять!</p>
+        <br>
+        <img src="assets/images/zavod.jpg"><br>
+
+        <div class="inline-b">
+          <img src="assets/images/pozitivbio.png">
+          <p class="px13">8 800 900 2223 - бесплатная горячая линия по всей России <br>
+          Адрес офиса: 11324, Москва, Варшавское шоссе 36с9, 3 этаж <br>
+          www.pozitivbio.ru</p>
+        </div>
+
+        <div class="inline-b">
+          <img src="assets/images/ico3.png">
+          <p class="px13">Высокое качества <br>продукции и <br>сервиса</p>
+        </div>
+        <div class="inline-b">
+          <img src="assets/images/ico4.png">
+          <p class="px13">13 лет лидер <br>аптечных продаж</p>
+        </div>
+        <div class="inline-b">
+          <img src="assets/images/ico5.png">
+          <p class="px13">Европейские <br>стандарты <br>производства</p>
+        </div>
+
+        <img class="guaranty abs" src="assets/images/guaranty.png">
+
+      </div>
+    </div>
+  </div>
+  <!-- end block -->
+
+  <div class="block block14" >
+    <div class="wrap">
+
+      <p class="sfl px30 center"><span class="sfh">Доказано: Neo Slim AKG помогает всем!</span> Попробуйте его и вы!</p>
+      <p class="sfl px20 center">Чем раньше вы похудеете, тем скорее предупредите риск развития опасных заболеваний, вызываемых лишним весом. Тем быстрее у вас будет фигура вашей мечты – стройная, сексуальная, вызывающая трепет у мужчин и зависть у женщин.</p>
+      <p class="sfl px20 center">Neo Slim AKG помогает сбрасывать лишнее быстро и просто! Вы можете проверить это сами.</p>
+
+      <div class="hr" id="order"></div>
+
+      <p class="sfl px80 white center"><span class="sfb">Успейте заказать</span> по акции!</p>
+
+      <div class="product-container rel">
+        <div class="left-block flleft">
+          <ul>
+            <li><span class="sfb">Сбросьте свой 1-й килограмм</span> уже на 2-й день</li>
+            <li><span class="sfb">Повышает скорость расщепления</span> жира с живота, боков, бедер на 84%</li>
+            <li><span class="sfb">Снижает аппетит</span> и устраняет чувство голода</li>
+            <li><span class="sfb">Уменьшает целлюлит</span> и растяжки</li>
+            <li><span class="sfb">Сброшенные килограммы</span> не возвращаются снова</li>
+
+          </ul>
+        </div>
+        <div class="product-pack abs"></div>
+        <div class="right-block flright">
+          <div class="form-container">
+            <p class="sfb px24 center">Попробуйте Neo Slim AKG <br>всего за 1 рубль</p>
+            <p class="action-valid"><!--<span class="sfl px14">до конца акции осталось:</span> <span class="sfb px26 white timer">00:00:01</span>--><span class="sfb px17 upp white">Акция действует до: <span class="pink">14.06.2018</span></span></p>
+            <div class="price inline-b alright">
+              <p class="sfl px20 dblue">Обычная цена:</p>
+              <p class="rel price-lt sft px31 dblue">1390 руб.</p>
+            </div><!--
+            --><div class="action-price inline-b alright">
+              <p class="sfl px20 dblue">Цена по акции:</p>
+              <p class="sfh px31 pink">1 руб.<sup>*</sup></p>
+            </div>
+            <form id="form" class="orderForm">
+              <input placeholder="Имя" name="name" maxlength="30" id="name" class="name name-black" required>
+              <input placeholder="Телефон" name="phone" id="phone" minlength="10" maxlength="20" class="phone phone-black" required>
+              <input type="hidden" name="comment" value="Нео Слим за 1 руб">
+              <button class="event_order px17" type="submit">Заказать</button>
+            </form>
+            <p class="px12 gray center">*при заказе курса</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+  <!-- end block -->
+
+  <div class="block footer">
+    <div class="wrap">
+
+      <ul>
+        <li>
+          <p class="title px18 sflight white upp">Как мы работаем:</p>
+          <ul class="list px14">
+            <li>Вы оставляете заявку на сайте<br>с помощью формы заказа</li>
+            <li>С вами связывается специалист марки и отвечает на все <br>ваши вопросы, помогает оформить доставку</li>
+            <li>Отправляем ваш заказ почтовой или курьерской службой. <br>Оплата — только при получении товара.</li>
+          </ul>
+        </li>
+        <li class="foot">
+          <p class="title px18 sflight white upp">Производитель:</p>
+          <img src="assets/images/footer_pozitiv.png" alt="">
+          <p class="px14 line">Горячая линия: 8 800 900 2223</p>
+          <p class="px14">115230 Россия, г. Москва, <br>Варшавское шоссе. д. 36, стр. 8</p>
+        </li>
+        <li>
+          <p class="title px18 sflight white upp">&nbsp;</p>
+          <p class="px14">Официальный интернет-магазин<br>«NeoSlim» в России и СНГ ООО «МТ-Маркетинг»,<br>ОГРН 5167746222881</p>
+          <p class="px14 adr">117105, г. Москва,<br>ул. Тверская-Ямская 4-я, д. 24</p>
+          <p class="px14"> Affiliate manager: <img src="assets/images/footer_drcash.png" class="vam" alt=""></p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+
+  <script type="text/javascript" src="assets/js/custom.js"></script>
+
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45168666 = new Ya.Metrika({
+                    id:45168666,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45168666" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2912575", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2912575;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!-- Goal's -->
+<script type="text/javascript">
+window.onload = function() {
+  var o = window._tmr || (window._tmr = []);
+  o.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "open"
+  }),
+  yaCounter45168666.reachGoal("open"), console.log("open")
+},
+$(function() {
+  $(".orderForm").submit(function() {
+      (_tmr.push({
+        id: "2912575",
+        type: "reachGoal",
+        goal: "success"
+      }),
+    yaCounter45168666.reachGoal("success"), console.log("success"))
+  }),
+  $(".event_anchor1").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "anchor1"
+    }),
+    yaCounter45168666.reachGoal("anchor1"), console.log("anchor1")
+  }),
+  $(".event_anchor2").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "anchor2"
+    }),
+    yaCounter45168666.reachGoal("anchor2"), console.log("anchor2")
+  }),
+  $(".event_anchor3").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "anchor3"
+    }),
+    yaCounter45168666.reachGoal("anchor3"), console.log("anchor3")
+  }),
+  $(".event_anchor4").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "anchor4"
+    }),
+    yaCounter45168666.reachGoal("anchor4"), console.log("anchor4")
+  }),
+  $(".event_anchor5").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "anchor5"
+    }),
+    yaCounter45168666.reachGoal("anchor5"), console.log("anchor5")
+  }),
+  $(".event_callback").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+      id: "2912575",
+      type: "reachGoal",
+      goal: "callback"
+    }),
+    yaCounter45168666.reachGoal("callback"), console.log("callback");
+  }),
+  $(".event_order").on("click", function(o) {
+    var a = window._tmr || (window._tmr = []);
+    a.push({
+       id: "2912575",
+      type: "reachGoal",
+      goal: "order"
+    }),
+    yaCounter45168666.reachGoal("order"), console.log("order")
+  })
+});
+</script>
+<!-- /Goal's -->
+</body>
+</html>
